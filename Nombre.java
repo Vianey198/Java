@@ -9,6 +9,7 @@ public class Nombre {
 
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Hola Vianey Guadalupe");
+		System.out.println("Negrito Yael");
 	 	
 	}
 
